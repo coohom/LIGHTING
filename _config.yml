@@ -1,0 +1,12 @@
+title: MINERVAS Massive INterior EnviRonments VirtuAl Synthesis
+email: minervas@qunhemail.com
+description: Website for MINERVAS
+# baseurl: "/MINERVAS" # the subpath of your site, e.g. /blog
+baseurl: "." # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+
+# Google Analytics
+google_analytics: G-52GJBKGE0J
