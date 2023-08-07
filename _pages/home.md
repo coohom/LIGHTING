@@ -20,7 +20,7 @@ permalink: /
       Haocheng Ren<sup>1</sup>,
       Hangming Fan<sup>1</sup>,
       <a href="http://www.cad.zju.edu.cn/home/rwang/">Rui Wang</a><sup>1</sup>,
-      <a href="http://www.cad.zju.edu.cn/home/huo/">Yuchi Huo<sup>1,2</sup>,
+      <a href="http://www.cad.zju.edu.cn/home/huo/">Yuchi Huo</a><sup>1,2</sup>,
       <a href="http://scholar.google.com/citations?user=dwvfKSkAAAAJ&hl=en">Rui Tang</a><sup>3</sup>,
       Lei Wang<sup>4</sup>,
       <a href="http://www.cad.zju.edu.cn/home/bao/">Hujun Bao</a><sup>1</sup>,
