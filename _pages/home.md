@@ -328,8 +328,7 @@ carousel("mySlides1", 0);
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.0.1/styles/atom-one-light.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.0.1/highlight.min.js"></script>
 <!-- <script>hljs.highlightAll();</script> -->
-<pre><code class="text">
-@article{10.1145/3582001,
+<pre><code class="text">@article{10.1145/3582001,
 author = {Ren, Haocheng and Fan, Hangming and Wang, Rui and Huo, Yuchi and Tang, Rui and Wang, Lei and Bao, Hujun},
 title = {Data-Driven Digital Lighting Design for Residential Indoor Spaces},
 year = {2023},
@@ -345,8 +344,6 @@ doi = {10.1145/3582001},
 month = {mar},
 articleno = {28},
 numpages = {18},
-keywords = {Lighting design, neural network, interior design, deep learning, data-driven approach}
-}
-</code></pre>
+keywords = {Lighting design, neural network, interior design, deep learning, data-driven approach}}</code></pre>
 
 <hr>
