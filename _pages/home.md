@@ -46,7 +46,7 @@ permalink: /
 
 <div class="row">
   <div class="col-md-12">
-    <img src="{{ "./static/img/teaser.png" | prepend:site.baseurl }}">
+    <img src="{{ "/static/img/teaser.png" | prepend:site.baseurl }}">
   </div>
 </div><br>
 
