@@ -270,7 +270,7 @@ carousel("mySlides5", 0);
 
 <div class="center">
   <div class="col-xs-12">
-    <h3>Visual Result</h3>
+    <h3>Visual Results</h3>
   </div>
 </div>
 
